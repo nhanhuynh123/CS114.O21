@@ -2,10 +2,20 @@
     <h1>CS114.O21-Máy học</h1>
 </div>
 
-# Hoạt động
-## Ngôn ngữ lập trình Python
-## Google Colab 
-# Introduction
+# Giới thiệu môn học
+* Tên môn học: Máy học
+* Mã môn: CS114
+* Mã lớp học: CS114.O21
+* Giảng viên:
+    - [Lê Đình Duy](duydl@uit.edu.vn)
+    - [Phạm Nguyễn Trường An](
+* Năm học: 2023-2024
+  
+# Nội dung môn học
+* Lập trình Python
+* Colab Assignment
+* Đồ án
+# Thành viên nhóm
 <div>
     <table>
         <tr>
@@ -18,4 +28,6 @@
         </tr>
     </table>
 </div>
+
+# Đồ án môn học:
 
