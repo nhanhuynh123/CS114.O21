@@ -1,1 +1,5 @@
-/documentclass[18pt]{Máy học}
+
+\documentclass[18pt]{article}
+
+\begin{document}
+Hello
