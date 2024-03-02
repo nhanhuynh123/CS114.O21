@@ -7,8 +7,8 @@
 * Mã môn: CS114
 * Mã lớp học: CS114.O21
 * Giảng viên:
-    - Lê Đình Duy [](duydl@uit.edu.vn)
-    - Phạm Nguyễn Trường An [](truonganpn@uit.edu.vn)
+    - Lê Đình Duy [duydl@uit.edu.vn](duydl@uit.edu.vn)
+    - Phạm Nguyễn Trường An [truonganpn@uit.edu.vn](truonganpn@uit.edu.vn)
 * Năm học: 2023-2024
   
 # Nội dung môn học
